@@ -1,0 +1,170 @@
+body{
+    background-image: url();
+    background-size: cover;
+    width: 100%;
+}
+.bo{
+	background-image: url(airpard.jpg);
+	background-size: 50%;
+}
+.navbar{
+	width: 100%;
+	height: 85px;
+	margin: auto;
+    background-color: aqua;
+}
+.icon{
+	width: 200px;
+	float: left;
+	height: 70px;
+}
+.logo{
+	color: violet;
+	font-size: 15px;
+	font-family: arial;
+	padding-left: 40px;
+	padding-top: -20px;
+	float: left;
+}
+.menu{
+	width: 400px;
+	float: right;
+    margin-right: 380px;
+	height: 70px;
+}
+ul{
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul li{
+	list-style: none;
+	margin-left: 62px;
+	margin-top: 27px;
+	font-size: 14px;
+}
+ul li a{
+	text-decoration: none;
+	color: black;
+	font-family: aligerian;
+	font-weight: hold;
+	transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+	color: orange;
+}
+.img{
+    margin-left: 10px;
+}
+.des{
+    width: 600px;
+    height: 280px;
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: bisque;
+}
+.dess{
+    float: right;
+    width: 10px;
+    height: 100px;
+    margin-right: 570px;
+    margin-top: -290px;
+}
+.one{
+	float: left;
+    margin-top: -18px;
+	text-decoration: none;
+}
+ a{
+	text-decoration: none;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+._2{
+	float:right;
+    margin-top: -160px;
+    margin-right: 20px;
+}
+._4{
+	text-decoration: skyblue;
+	margin-left: 16cm;
+	margin-top: -4cm;
+}
+footer{
+	background-color: skyblue;
+	text-decoration: none;
+	color: white;
+}
+footer h2{
+	text-decoration: skyblue;
+}
+.img2{
+    float: left;
+    margin-left: 530px;
+    margin-top: -360px;
+}
+.img3{
+    float: right;
+    margin-top: -360px;
+}
+.ele{
+    float: left;
+    margin-left: 530px;
+    margin-top: -235px;
+}
+.comp{
+	margin-left: 20px;
+}
+.cctv{
+    float: right;
+    margin-top: -250px;
+	margin-right: 28px;
+}
+.contact{
+	background-color: pink;
+	border: px;
+	border-radius: px;
+	color: black;
+	width: 50%;
+	float: right;
+	
+}
+.contact h1{
+	color: black;
+	margin-left: 20px;
+}
+.contact p{
+	color: black;
+	margin-left: 20px;
+	font-size: 20px;
+}
+.address{
+	border: px;
+	border-radius: px;
+	background-color: pink;
+	width: 50%;
+	height: 227px;
+	float: left;
+}
+.address h1{
+	color: black;
+	margin-left: 20px;
+}
+.address p{
+	color: black;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.vd{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+}
+h2{
+	text-decoration: none;
+	color: black;
+	display: flex;
+}
